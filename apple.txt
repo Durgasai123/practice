@@ -1,0 +1,5 @@
+Linux is powerful
+Linux is fast
+I am learning linux
+Grep is used for searching
+
